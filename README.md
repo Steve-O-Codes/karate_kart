@@ -18,7 +18,7 @@ To add an item the user can either push enter on their phones keyboard or click 
 
 ### Technologies Used: 
 <hr>
-<div style="display:flex, justify-content:center">
+<div style="display:flex; justify-content:center">
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

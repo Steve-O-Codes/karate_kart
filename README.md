@@ -1,4 +1,4 @@
-# karate_kart
+# Karate Kart
 <hr>
 <img style="margin: 0 auto;" height=250 src="https://user-images.githubusercontent.com/110523608/236629984-f1c56e7c-0a0a-44f8-b36d-fe6a5942915e.png">
 

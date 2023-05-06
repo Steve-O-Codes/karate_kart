@@ -1,6 +1,6 @@
 # karate_kart
 <hr>
-<img height=50 src="https://user-images.githubusercontent.com/110523608/236629984-f1c56e7c-0a0a-44f8-b36d-fe6a5942915e.png">
+<img style="margin: 0 auto;" height=250 src="https://user-images.githubusercontent.com/110523608/236629984-f1c56e7c-0a0a-44f8-b36d-fe6a5942915e.png">
 
 This is a shopping cart app using a real-time Firebase database, so that changes can be made amongst multiple people in a household.
 This app is a demo for an app that I created for my family members in my household.

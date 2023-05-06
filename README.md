@@ -4,6 +4,7 @@
 
 This is a shopping cart app using a real-time Firebase database, so that changes can be made amongst multiple people in a household.
 This app is a demo for an app that I created for my family members in my household.
+A live version can be viewed here <a href="https://karate-kart-app.netlify.app/">Karate Kart</a>
 
 Previously we were using messages on whatsapp or notes on our phones to create shopping lists. 
 The messages were difficult to track and edit and the notes on our individual phones could not be shared. 
